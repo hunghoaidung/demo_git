@@ -1,2 +1,5 @@
-chào mn 
+hello
+there are 4 people in my group
+Hung is leader
+thực hành conflic 
 
