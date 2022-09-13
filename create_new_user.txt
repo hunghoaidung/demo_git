@@ -1,0 +1,4 @@
+var user = user();
+newUser.user_name = request.user_name
+newUser.save();
+
